@@ -1,0 +1,379 @@
+Provincia,Comune,Codice Istat,Ncc,Taxi
+Cagliari,Assemini,92003,4,4
+Cagliari,Cagliari,92009,65,105
+Cagliari,Capoterra,92011,18,1
+Cagliari,Decimomannu,92015,5,0
+Cagliari,Elmas,92108,4,4
+Cagliari,Maracalagonis,92037,4,0
+Cagliari,Monserrato,92109,3,0
+Cagliari,Pula,92050,24,3
+Cagliari,Quartu Sant'Elena,92051,13,8
+Cagliari,Quartucciu,92105,7,0
+Cagliari,Sarroch,92066,13,0
+Cagliari,Selargius,92068,8,0
+Cagliari,Sestu,92074,11,0
+Cagliari,Settimo San Pietro,92075,2,0
+Cagliari,Sinnai,92080,10,0
+Cagliari,Uta,92090,1,0
+Cagliari,Villa San Pietro,92099,8,0
+Nuoro,Aritzo,91001,1,0
+Nuoro,Arzana,91002,3,0
+Nuoro,Atzara,91003,0,0
+Nuoro,Austis,91004,0,0
+Nuoro,Bari Sardo,91005,3,0
+Nuoro,Baunei,91006,3,0
+Nuoro,Belvì,91007,1,0
+Nuoro,Birori,91008,2,0
+Nuoro,Bitti,91009,1,0
+Nuoro,Bolotana,91010,1,0
+Nuoro,Borore,91011,1,0
+Nuoro,Bortigali,91012,0,0
+Nuoro,Cardedu,91103,3,0
+Nuoro,Desulo,91016,4,0
+Nuoro,Dorgali,91017,10,0
+Nuoro,Dualchi,91018,0,0
+Nuoro,Elini,91019,0,0
+Nuoro,Fonni,91024,1,0
+Nuoro,Gadoni,91025,0,0
+Nuoro,Gairo,91026,0,0
+Nuoro,Galtellì,91027,0,0
+Nuoro,Gavoi,91028,6,0
+Nuoro,Girasole,91031,2,0
+Nuoro,Ilbono,91032,3,0
+Nuoro,Irgoli,91033,1,0
+Nuoro,Jerzu,91035,2,0
+Nuoro,Lanusei,91037,5,0
+Nuoro,Lei,91038,0,0
+Nuoro,Loceri,91039,1,0
+Nuoro,Loculi,91040,1,0
+Nuoro,Lodè,91041,3,0
+Nuoro,Lodine,91104,0,0
+Nuoro,Lotzorai,91042,1,0
+Nuoro,Lula,91043,2,0
+Nuoro,Macomer,91044,4,0
+Nuoro,Mamoiada,91046,2,0
+Nuoro,Meana Sardo,91047,1,0
+Nuoro,Noragugume,91050,0,0
+Nuoro,Nuoro,91051,19,1
+Nuoro,Oliena,91055,2,0
+Nuoro,Ollolai,91056,0,0
+Nuoro,Olzai,91057,3,0
+Nuoro,Onanì,91058,0,0
+Nuoro,Onifai,91059,0,0
+Nuoro,Oniferi,91060,2,0
+Nuoro,Orani,91061,2,0
+Nuoro,Orgosolo,91062,2,0
+Nuoro,Orosei,91063,22,0
+Nuoro,Orotelli,91064,3,0
+Nuoro,Ortueri,91066,0,0
+Nuoro,Orune,91067,0,0
+Nuoro,Osidda,91068,0,0
+Nuoro,Osini,91069,0,0
+Nuoro,Ottana,91070,2,0
+Nuoro,Ovodda,91071,0,0
+Nuoro,Perdasdefogu,91072,3,0
+Nuoro,Posada,91073,3,0
+Nuoro,Sarule,91077,2,0
+Nuoro,Silanus,91083,0,0
+Nuoro,Sindia,91084,0,0
+Nuoro,Siniscola,91085,1,0
+Nuoro,Sorgono,91086,1,0
+Nuoro,Talana,91088,0,0
+Nuoro,Tertenia,91089,4,0
+Nuoro,Teti,91090,0,0
+Nuoro,Tiana,91091,0,0
+Nuoro,Tonara,91093,1,0
+Nuoro,Torpè,91094,3,0
+Nuoro,Tortolì,91095,9,3
+Nuoro,Triei,91097,1,0
+Nuoro,Ulassai,91098,1,0
+Nuoro,Urzulei,91099,0,0
+Nuoro,Ussassai,91100,2,0
+Nuoro,Villagrande Strisaili,91101,1,0
+Oristano,Abbasanta,95001,2,0
+Oristano,Aidomaggiore,95002,0,0
+Oristano,Albagiara,95003,0,0
+Oristano,Ales,95004,2,0
+Oristano,Allai,95005,0,0
+Oristano,Arborea,95006,2,0
+Oristano,Ardauli,95007,1,0
+Oristano,Assolo,95008,0,0
+Oristano,Asuni,95009,0,0
+Oristano,Baradili,95010,1,0
+Oristano,Baratili San Pietro,95011,1,0
+Oristano,Baressa,95012,0,0
+Oristano,Bauladu,95013,1,0
+Oristano,Bidonì,95014,1,0
+Oristano,Bonarcado,95015,2,0
+Oristano,Boroneddu,95016,0,0
+Oristano,Bosa,95079,4,0
+Oristano,Busachi,95017,0,0
+Oristano,Cabras,95018,3,0
+Oristano,Cuglieri,95019,0,0
+Oristano,Curcuris,95077,0,0
+Oristano,Flussio,95080,0,0
+Oristano,Fordongianus,95020,0,0
+Oristano,Ghilarza,95021,1,0
+Oristano,Gonnoscodina,95022,0,0
+Oristano,Gonnosnò,95023,1,0
+Oristano,Gonnostramatza,95024,0,0
+Oristano,Laconi,95082,0,0
+Oristano,Magomadas,95083,2,0
+Oristano,Marrubiu,95025,3,0
+Oristano,Masullas,95026,2,0
+Oristano,Milis,95027,2,0
+Oristano,Modolo,95084,2,0
+Oristano,Mogorella,95028,0,0
+Oristano,Mogoro,95029,2,0
+Oristano,Montresta,95085,0,0
+Oristano,Morgongiori,95030,0,0
+Oristano,Narbolia,95031,1,0
+Oristano,Neoneli,95032,1,0
+Oristano,Norbello,95033,2,0
+Oristano,Nughedu Santa Vittoria,95034,0,0
+Oristano,Nurachi,95035,1,0
+Oristano,Nureci,95036,0,0
+Oristano,Ollastra,95037,0,0
+Oristano,Oristano,95038,5,9
+Oristano,Palmas Arborea,95039,0,0
+Oristano,Pau,95040,0,0
+Oristano,Paulilatino,95041,3,0
+Oristano,Pompu,95042,1,0
+Oristano,Riola Sardo,95043,2,0
+Oristano,Ruinas,95044,1,0
+Oristano,Sagama,95086,1,0
+Oristano,Samugheo,95045,1,0
+Oristano,San Nicolò D'Arcidano,95046,1,0
+Oristano,San Vero Milis,95050,0,0
+Oristano,Santa Giusta,95047,0,0
+Oristano,Santu Lussurgiu,95049,2,0
+Oristano,Scano Di Montiferro,95051,0,0
+Oristano,Sedilo,95052,1,0
+Oristano,Seneghe,95053,1,0
+Oristano,Senis,95054,2,0
+Oristano,Sennariolo,95055,1,0
+Oristano,Siamaggiore,95056,2,0
+Oristano,Siamanna,95057,0,0
+Oristano,Siapiccia,95076,0,0
+Oristano,Simala,95058,0,0
+Oristano,Simaxis,95059,0,0
+Oristano,Sini,95060,0,0
+Oristano,Siris,95061,0,0
+Oristano,Soddì,95078,0,0
+Oristano,Solarussa,95062,2,0
+Oristano,Sorradile,95063,0,0
+Oristano,Suni,95087,0,0
+Oristano,Tadasuni,95064,0,0
+Oristano,Terralba,95065,3,0
+Oristano,Tinnura,95088,0,0
+Oristano,Tramatza,95066,0,0
+Oristano,Tresnuraghes,95067,1,0
+Oristano,Ulà Tirso,95068,0,0
+Oristano,Uras,95069,1,0
+Oristano,Usellus,95070,1,0
+Oristano,Villa Sant'Antonio,95048,0,0
+Oristano,Villa Verde,95073,1,0
+Oristano,Villanova Truschedu,95071,0,0
+Oristano,Villaurbana,95072,0,0
+Oristano,Zeddiani,95074,0,0
+Oristano,Zerfaliu,95075,0,0
+Sassari,Aggius,90001,2,0
+Sassari,Aglientu,90062,3,0
+Sassari,Alà dei Sardi,90002,2,0
+Sassari,Alghero,90003,28,30
+Sassari,Anela,90004,0,0
+Sassari,Ardara,90005,0,0
+Sassari,Arzachena,90006,29,27
+Sassari,Badesi,90081,9,0
+Sassari,Banari,90007,1,0
+Sassari,Benetutti,90008,1,0
+Sassari,Berchidda,90009,9,0
+Sassari,Bessude,90010,0,0
+Sassari,Bonnanaro,90011,0,0
+Sassari,Bono,90012,0,0
+Sassari,Bonorva,90013,1,0
+Sassari,Bortigiadas,90014,3,0
+Sassari,Borutta,90015,0,0
+Sassari,Bottidda,90016,1,0
+Sassari,Buddusò,90017,3,0
+Sassari,Budoni,90091,18,0
+Sassari,Bultei,90018,2,0
+Sassari,Bulzi,90019,2,0
+Sassari,Burgos,90020,2,0
+Sassari,Calangianus,90021,1,0
+Sassari,Cargeghe,90022,0,0
+Sassari,Castelsardo,90023,3,0
+Sassari,Cheremule,90024,0,0
+Sassari,Chiaramonti,90025,1,0
+Sassari,Codrongianos,90026,0,0
+Sassari,Cossoine,90027,0,0
+Sassari,Erula,90088,0,0
+Sassari,Esporlatu,90028,0,0
+Sassari,Florinas,90029,1,0
+Sassari,Giave,90030,0,0
+Sassari,Golfo Aranci,90083,0,5
+Sassari,Illorai,90031,1,0
+Sassari,Ittireddu,90032,1,0
+Sassari,Ittiri,90033,8,0
+Sassari,La Maddalena,90035,2,6
+Sassari,Laerru,90034,3,0
+Sassari,Loiri Porto San Paolo,90084,9,0
+Sassari,Luogosanto,90036,5,0
+Sassari,Luras,90037,3,0
+Sassari,Mara,90038,0,0
+Sassari,Martis,90039,1,0
+Sassari,Monteleone Rocca Doria,90040,0,0
+Sassari,Monti,90041,3,0
+Sassari,Mores,90042,1,0
+Sassari,Muros,90043,0,0
+Sassari,Nughedu San Nicolò,90044,0,0
+Sassari,Nule,90045,3,0
+Sassari,Nulvi,90046,2,0
+Sassari,Olbia,90047,89,45
+Sassari,Olmedo,90048,3,0
+Sassari,Oschiri,90049,0,0
+Sassari,Osilo,90050,4,0
+Sassari,Ossi,90051,3,0
+Sassari,Ozieri,90052,3,0
+Sassari,Padria,90053,0,0
+Sassari,Padru,90090,3,0
+Sassari,Palau,90054,13,4
+Sassari,Pattada,90055,1,0
+Sassari,Perfugas,90056,7,0
+Sassari,Ploaghe,90057,4,0
+Sassari,Porto Torres,90058,13,4
+Sassari,Pozzomaggiore,90059,2,0
+Sassari,Putifigari,90060,0,0
+Sassari,Romana,90061,0,0
+Sassari,San Teodoro,90092,3,0
+Sassari,Santa Maria Coghinas,90087,2,0
+Sassari,Santa Teresa Gallura,90063,9,8
+Sassari,Sant'Antonio Di Gallura,90085,0,0
+Sassari,Sassari,90064,38,35
+Sassari,Sedini,90065,3,0
+Sassari,Semestene,90066,0,0
+Sassari,Sennori,90067,1,0
+Sassari,Siligo,90068,1,0
+Sassari,Sorso,90069,8,0
+Sassari,Stintino,90089,6,0
+Sassari,Telti,90080,2,0
+Sassari,Tempio Pausania,90070,17,1
+Sassari,Tergu,90086,1,0
+Sassari,Thiesi,90071,3,0
+Sassari,Tissi,90072,0,0
+Sassari,Torralba,90073,2,0
+Sassari,Trinità d'Agultu e Vignola,90074,6,0
+Sassari,Tula,90075,1,0
+Sassari,Uri,90076,4,0
+Sassari,Usini,90077,1,0
+Sassari,Valledoria,90079,6,0
+Sassari,Viddalba,90082,5,0
+Sassari,Villanova Monteleone,90078,1,0
+Sud Sardegna,Arbus,111001,2,0
+Sud Sardegna,Armungia,111002,1,0
+Sud Sardegna,Ballao,111003,0,0
+Sud Sardegna,Barrali,111004,1,0
+Sud Sardegna,Barumini,111005,0,0
+Sud Sardegna,Buggerru,111006,0,0
+Sud Sardegna,Burcei,111007,3,0
+Sud Sardegna,Calasetta,111008,2,0
+Sud Sardegna,Carbonia,111009,20,6
+Sud Sardegna,Carloforte,111010,7,0
+Sud Sardegna,Castiadas,111011,6,0
+Sud Sardegna,Collinas,111012,0,0
+Sud Sardegna,Decimoputzu,111013,3,0
+Sud Sardegna,Dolianova,111014,3,0
+Sud Sardegna,Domus De Maria,111015,7,0
+Sud Sardegna,Domusnovas,111016,2,0
+Sud Sardegna,Donori,111017,1,0
+Sud Sardegna,Escalaplano,111018,1,0
+Sud Sardegna,Escolca,111019,1,0
+Sud Sardegna,Esterzili,111020,0,0
+Sud Sardegna,Fluminimaggiore,111021,0,0
+Sud Sardegna,Furtei,111022,0,0
+Sud Sardegna,Genoni,111023,0,0
+Sud Sardegna,Genuri,111024,1,0
+Sud Sardegna,Gergei,111025,3,0
+Sud Sardegna,Gesico,111026,0,0
+Sud Sardegna,Gesturi,111027,3,0
+Sud Sardegna,Giba,111028,1,0
+Sud Sardegna,Goni,111029,0,0
+Sud Sardegna,Gonnesa,111030,4,0
+Sud Sardegna,Gonnosfanadiga,111031,3,0
+Sud Sardegna,Guamaggiore,111032,0,0
+Sud Sardegna,Guasila,111033,2,0
+Sud Sardegna,Guspini,111034,12,0
+Sud Sardegna,Iglesias,111035,14,2
+Sud Sardegna,Isili,111036,2,0
+Sud Sardegna,Las Plassas,111037,0,0
+Sud Sardegna,Lunamatrona,111038,3,0
+Sud Sardegna,Mandas,111039,2,0
+Sud Sardegna,Masainas,111040,2,0
+Sud Sardegna,Monastir,111041,4,0
+Sud Sardegna,Muravera,111042,7,0
+Sud Sardegna,Musei,111043,0,0
+Sud Sardegna,Narcao,111044,3,0
+Sud Sardegna,Nuragus,111045,2,0
+Sud Sardegna,Nurallao,111046,0,0
+Sud Sardegna,Nuraminis,111047,0,0
+Sud Sardegna,Nurri,111048,0,0
+Sud Sardegna,Nuxis,111049,0,0
+Sud Sardegna,Orroli,111050,4,0
+Sud Sardegna,Ortacesus,111051,2,0
+Sud Sardegna,Pabillonis,111052,5,0
+Sud Sardegna,Pauli Arbarei,111053,2,0
+Sud Sardegna,Perdaxius,111054,1,0
+Sud Sardegna,Pimentel,111055,0,0
+Sud Sardegna,Piscinas,111056,1,0
+Sud Sardegna,Portoscuso,111057,9,0
+Sud Sardegna,Sadali,111058,1,0
+Sud Sardegna,Samassi,111059,2,0
+Sud Sardegna,Samatzai,111060,0,0
+Sud Sardegna,San Basilio,111061,1,0
+Sud Sardegna,San Gavino Monreale,111062,2,0
+Sud Sardegna,San Giovanni Suergiu,111063,2,0
+Sud Sardegna,San Nicolò Gerrei,111064,1,0
+Sud Sardegna,San Sperate,111065,6,0
+Sud Sardegna,San Vito,111066,5,0
+Sud Sardegna,Sanluri,111067,6,0
+Sud Sardegna,Santadi,111068,5,0
+Sud Sardegna,Sant'Andrea Frius,111069,1,0
+Sud Sardegna,Sant'Anna Arresi,111070,3,0
+Sud Sardegna,Sant'Antioco,111071,5,0
+Sud Sardegna,Sardara,111072,2,0
+Sud Sardegna,Segariu,111073,1,0
+Sud Sardegna,Selegas,111074,1,0
+Sud Sardegna,Senorbì,111075,2,0
+Sud Sardegna,Serdiana,111076,1,0
+Sud Sardegna,Serramanna,111077,4,0
+Sud Sardegna,Serrenti,111078,1,0
+Sud Sardegna,Serri,111079,1,0
+Sud Sardegna,Setzu,111080,0,0
+Sud Sardegna,Seui,111081,2,0
+Sud Sardegna,Seulo,111082,0,0
+Sud Sardegna,Siddi,111083,2,0
+Sud Sardegna,Siliqua,111084,2,0
+Sud Sardegna,Silius,111085,0,0
+Sud Sardegna,Siurgus Donigala,111086,1,0
+Sud Sardegna,Soleminis,111087,2,0
+Sud Sardegna,Suelli,111088,1,0
+Sud Sardegna,Teulada,111089,11,0
+Sud Sardegna,Tratalias,111090,2,0
+Sud Sardegna,Tuili,111091,2,0
+Sud Sardegna,Turri,111092,1,0
+Sud Sardegna,Ussana,111093,2,0
+Sud Sardegna,Ussaramanna,111094,0,0
+Sud Sardegna,Vallermosa,111095,0,0
+Sud Sardegna,Villacidro,111096,8,0
+Sud Sardegna,Villamar,111097,1,0
+Sud Sardegna,Villamassargia,111098,1,0
+Sud Sardegna,Villanova Tulo,111099,0,0
+Sud Sardegna,Villanovaforru,111100,0,0
+Sud Sardegna,Villanovafranca,111101,2,0
+Sud Sardegna,Villaperuccio,111102,2,0
+Sud Sardegna,Villaputzu,111103,5,0
+Sud Sardegna,Villasalto,111104,1,0
+Sud Sardegna,Villasimius,111105,17,0
+Sud Sardegna,Villasor,111106,3,0
+Sud Sardegna,Villaspeciosa,111107,1,0
+,,,1133,311
